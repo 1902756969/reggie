@@ -76,7 +76,7 @@
   
   4. 收货地址(增删改-可扩展定位获取)
   
-  <img src="C:/Users/axing/AppData/Roaming/Typora/typora-user-images/image-20230121145254720.png" alt="image-20230121145254720" style="zoom:50%;" />
+  <img src="https://i0.hdslb.com/bfs/album/f0c770a00722613c6d448b25a0b3c1445d767b91.png" alt="image-20230121145254720" style="zoom:50%;" />
   
   5.付款成功(未接付款接口)
   
